@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="13077" started-at="2018-12-06T19:35:15Z" finished-at="2018-12-06T19:35:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="13077" started-at="2018-12-06T19:35:15Z" finished-at="2018-12-06T19:35:28Z">
+      <class name="dao.assignment_executor.Assignment2">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:dao.assignment_executor.Assignment2@7ccf6114]" name="launchBrowser" is-config="true" duration-ms="4235" started-at="2018-12-06T19:35:15Z" finished-at="2018-12-06T19:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="BankGetList()[pri:0, instance:dao.assignment_executor.Assignment2@7ccf6114]" name="BankGetList" duration-ms="6523" started-at="2018-12-06T19:35:19Z" finished-at="2018-12-06T19:35:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BankGetList -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:dao.assignment_executor.Assignment2@7ccf6114]" name="terminateBrowser" is-config="true" duration-ms="2318" started-at="2018-12-06T19:35:25Z" finished-at="2018-12-06T19:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- dao.assignment_executor.Assignment2 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
